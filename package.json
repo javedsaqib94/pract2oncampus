@@ -1,0 +1,24 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "start" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javedsaqib94/pract2oncampus.git"
+  },
+  "author": "Saqib Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javedsaqib94/pract2oncampus/issues"
+  },
+  "homepage": "https://github.com/javedsaqib94/pract2oncampus#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node": "^17.7.1",
+    "nodemon": "^2.0.15"
+  }
+}
